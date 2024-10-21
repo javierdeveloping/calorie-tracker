@@ -22,8 +22,8 @@ export default function App() {
   return (
     <>
       <header className="bg-lime-600 py-3">
-        <div className="bg-lime-500 max-w-4xl mx-auto flex justify-between">
-          <h1 className="bg-lime-300 text-center text-lg font-bold text-white uppercase">
+        <div className=" max-w-4xl mx-auto flex justify-between">
+          <h1 className=" text-center text-lg font-bold text-white uppercase">
             Contador calorias
           </h1>
           <button
